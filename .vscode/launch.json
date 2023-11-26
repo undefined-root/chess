@@ -1,0 +1,20 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "src.Main",
+			"projectName": "chess_ee4abfe4"
+		},
+		{
+			"type": "java",
+			"name": "Chess",
+			"request": "launch",
+			"mainClass": "src.Main",
+			"projectName": "chess",
+			"args": "singleplayer"
+		}
+	]
+}
